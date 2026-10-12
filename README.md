@@ -6,10 +6,14 @@ A simple web development exercise created to practice direct communication with 
 
 ## 📁 Project Structure
 
+```text
+
+.
 firebase-training/
 ├── index.html # Main HTML entry point
 ├── remoteTesstorage.js # Firebase CRUD operations and fetch functions
 └── README.md # Project documentation
+```
 
 ---
 
