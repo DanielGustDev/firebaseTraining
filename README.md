@@ -7,7 +7,6 @@ A simple web development exercise created to practice direct communication with 
 ## 📁 Project Structure
 
 ```text
-
 .
 firebase-training/
 ├── index.html # Main HTML entry point
